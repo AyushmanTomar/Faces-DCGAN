@@ -20,7 +20,7 @@ Usage
 
 
 Clone the repository:
-- git clone https://github.com/yourusername/faces.git
+- git clone https://github.com/AyushmanTomar/Faces-DCGAN.git
 - cd faces
 - run all the cells of jupyer notebook
 
